@@ -1,7 +1,7 @@
 # Arithmetic-Calculator
 
 - This program implements an Arithmetic Calculator in Java that performs complex arithmetic operations like
-addition (+), subtraction (-), multiplication (*), division (/) and exponentation (^), using as basic structure 
+addition (+), subtraction (-), multiplication (*), division (/) and exponentiation (^), using as basic structure 
 a binary tree.
 - Before performing the calculations, a number of correctness checks are done. 
     - The first check is related to the parenthesis, like if all the parenthesis are matched and if the matched
